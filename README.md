@@ -4,7 +4,7 @@ This is a simple python script to visualize the 3D orientation of an embedded de
 
 ![demo](/doc/img/orientation-viz.png)
 
-The application is meant to be used with [Rust 3D Orientation Demo]().
+The application is meant to be used with [Rust 3D Orientation Demo](https://github.com/stefanluethi/rust-3d-orientation-demo).
 
 ## Interface
 
